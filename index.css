@@ -1,0 +1,43 @@
+*
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: purple;
+width: 1350PX;
+height:50px ;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    width: 600px;
+    height: 100px;
+    margin: 20px;
+}
+#title{
+    width: 590px;
+    height: 20px;
+    font-size: larger;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: green;
+    color:white;
+}
+
+.task {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: brown;
+}
+
+
+
+
